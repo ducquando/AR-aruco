@@ -13,7 +13,7 @@ ArUco Markers are black and white images with a predefined pattern. In this prog
 - Identify the pixel coordinates associated with the four points that define the ROI
 - Use homography and image warping to replace the ROI with a "source" image of our choice
 
-# Notes:
+## Notes:
 Since our files are large, we will not upload it into GitHub. If you want to download those files, here is the [AR-aruco's Drive folder](https://drive.google.com/drive/folders/1hn6CpxgXT0DZN9JS7fYxgZkOvbOp7tjx?usp=sharing).
 
 ## Acknowledgements: 
